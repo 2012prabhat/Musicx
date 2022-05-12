@@ -123,7 +123,7 @@ function Player({currSong}) {
         </div>
 
     <div className=' h-[25vh] w-full  flex text-center '>
-        <div className='md:flex w-[30%]  '>
+        <div className='md:flex w-[30%]  md:pl-2'>
         <div className={`bg-[url(${song.coverPath})] m-1 h-[60%] w-[95%] md:h-[80%] md:w-[50%] bg-cover`}></div>
         <div className=' md:mt-12 text-red-900 font-bold text-base w-[100%] md:w-[70%] md:text-xl'>{song.songName}</div>
         </div>
