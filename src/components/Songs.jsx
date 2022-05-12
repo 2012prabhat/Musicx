@@ -1,5 +1,4 @@
 import React,{useState,useEffect} from 'react'
-import SongCard from './song.png'
 import musicDetails from './musicDatabase';
 import Player from "./Player"
 

@@ -1,7 +1,6 @@
 import Navbar from "./components/Navbar";
 import Favourite from "./components/Favourite";
 import Songs from "./components/Songs";
-import Player from "./components/Player";
 import {BrowserRouter,Routes,Route} from 'react-router-dom';
 function App() {
   return (
